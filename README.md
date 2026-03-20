@@ -17,7 +17,7 @@
   <img src="figures/m-h.png" width="800"/>
 </p>
 
-> Comparison of PACE with HE, CLAHE, LIME, and MSRCR across diverse scenes.
+> Comparison between Original and PACE-Enhanced Images.
 
 ---
 
@@ -84,6 +84,7 @@ PACE is designed to **balance perceptual quality with structural fidelity**, res
 ---
 
 ## 📁 Repository Structure
+
 PACE-Research-Paper/
 │── README.md
 │── paper/
