@@ -85,13 +85,15 @@ PACE is designed to **balance perceptual quality with structural fidelity**, res
 
 ## 📁 Repository Structure
 
+```bash
 PACE-Research-Paper/
-│── README.md
-│── paper/
-│ └── Perceptual_Adaptive_Contrast_Enhancement_(PACE).pdf
-│── figures/
-│ ├── comparisons.png
-│ ├── pipeline.png
+├── README.md
+├── paper/
+│   └── Perceptual_Adaptive_Contrast_Enhancement_(PACE).pdf
+├── figures/
+│   ├── comparisons.png
+│   └── pipeline.png
+└── LICENSE
 
 ---
 
