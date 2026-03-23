@@ -94,7 +94,7 @@ PACE-Research-Paper/
 │   ├── comparisons.png
 │   └── pipeline.png
 └── LICENSE
-
+```
 ---
 
 ## 🚀 Future Work
