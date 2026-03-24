@@ -5,9 +5,9 @@
 ---
 
 ## 🔗 Links
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](paper/Perceptual_Adaptive_Contrast_Enhancement_(PACE).pdf)
+[![Research Paper](https://img.shields.io/badge/Paper-PDF-red)](https://docs.google.com/viewer?url=https://github.com/muhammedshahid/pace-research-paper/raw/main/paper/Perceptual_Adaptive_Contrast_Enhancement_(PACE).pdf)
 [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/muhammedshahid/pace)
-[![Demo](https://img.shields.io/badge/Demo-Live-green)](https://muhammedshahid.github.io/pace/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://muhammedshahid.github.io/pace/src/)
 
 ---
 
