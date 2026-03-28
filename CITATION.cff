@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this paper or the PACE method in your research, please cite it as below."
+title: "Perceptual Adaptive Contrast Enhancement (PACE): A structure-preserving, artifact-free image enhancement method in OKLab space"
+authors:
+  - family-names: "Shahid"
+    given-names: "Mohd"
+    orcid: ""                  # Add your ORCID ID here if you have one
+date-released: "2026-03-28"
+version: "1.0.0"
+doi: "10.5281/zenodo.19203394"
+url: "https://github.com/muhammedshahid/pace-research-paper"
+repository-code: "https://github.com/muhammedshahid/pace-research-paper"
+repository-artifact: "https://github.com/muhammedshahid/pace"
+license: MIT
+type: article
+keywords:
+  - image-enhancement
+  - contrast-enhancement
+  - oklab
+  - perceptual-image-processing
+  - retinex
+  - clahe
+  - structure-preserving
+abstract: |
+  PACE is a perceptually-guided luminance enhancement framework that operates in the uniform OKLab color space. 
+  It adaptively blends local contrast, reflectance, and detail signals with automatic parameter control 
+  to improve visibility in low-contrast images while preserving structural fidelity and natural color appearance.
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Shahid"
+      given-names: "Mohd"
+  title: "Perceptual Adaptive Contrast Enhancement (PACE): A structure-preserving, artifact-free image enhancement method in OKLab space"
+  year: 2026
+  doi: "10.5281/zenodo.19203394"
+  url: "https://doi.org/10.5281/zenodo.19203394"
+  publisher: "Zenodo"
+related-identifiers:
+  - identifier: "10.5281/zenodo.19282551"
+    relation: "isVersionOf"
+    resource-type: "publication"
+    identifier-type: "doi"
+  - identifier: "10.5281/zenodo.19203394"
+    relation: "isSupplementedBy"
+    resource-type: "software"
+    identifier-type: "doi"
