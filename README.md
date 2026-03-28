@@ -78,8 +78,7 @@ PACE is designed to **balance perceptual quality with structural fidelity**, res
 
 ## 📄 Paper
 
-📥 Download full paper:  
-👉 [PACE – Perceptual Adaptive Contrast Enhancement](paper/Perceptual_Adaptive_Contrast_Enhancement_(PACE).pdf)
+📥 Download full paper: [![Research Paper](https://img.shields.io/badge/Paper-PDF-red)](https://docs.google.com/viewer?url=https://github.com/muhammedshahid/pace-research-paper/raw/main/paper/Perceptual_Adaptive_Contrast_Enhancement_(PACE).pdf)
 
 ---
 
