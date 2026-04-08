@@ -117,7 +117,7 @@ For research collaboration or queries, feel free to connect.
   author = {Shahid, Mohd},
   title = {PACE: Perceptual Adaptive Contrast Enhancement},
   year = {2026},
-  version = {2.0.0},
+  version = {3.1.2},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.19203394},
   url = {https://doi.org/10.5281/zenodo.19203394}
